@@ -3,7 +3,7 @@
 
 ## Table of Contents
 
-[1. Text](https://github.com/yasincidem/android-concepts/wiki/_new#1text)
+[1. Text](https://github.com/yasincidem/android-concepts/blob/main/README.md#1-text)
 
 
 

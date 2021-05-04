@@ -41,8 +41,12 @@
 
 ### Videos
 
-[ 📜 Best practices for using text in Android (Google I/O'19)](https://www.youtube.com/watch?v=fpSfCvP36aA) <br>
-[ 📜 Best practices for text on Android (Google I/O '18)](https://www.youtube.com/watch?v=x-FcOX6ErdI) <br>
+[ 🎥 Best practices for using text in Android (Google I/O'19)](https://www.youtube.com/watch?v=fpSfCvP36aA) <br>
+[ 🎥 Best practices for text on Android (Google I/O '18)](https://www.youtube.com/watch?v=x-FcOX6ErdI) <br>
+[ 🎥 Use Android text like a pro (Android Dev Summit '18)](https://www.youtube.com/watch?v=vXqwRhjd7b4) <br>
+
+
+
 
 
 ### Libraries
